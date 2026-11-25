@@ -1,0 +1,97 @@
+shipment_id,batch_id,distributor,destination,ship_date,status
+SH900,B153,QuickMart Wholesale,"Atlanta, GA",2025-03-16,Delivered
+SH901,B174,CityMart Logistics,"Atlanta, GA",2025-03-06,Delivered
+SH902,B100,MetroFoods,"Atlanta, GA",2025-05-30,Delivered
+SH903,B168,CityMart Logistics,"Miami, FL",2025-07-18,Delivered
+SH904,B128,ValueGrocer Supply,"Denver, CO",2025-05-09,Delivered
+SH905,B149,ValueGrocer Supply,"Houston, TX",2025-05-26,Delivered
+SH906,B116,FreshLine Distribution,"Atlanta, GA",2025-07-15,Delivered
+SH907,B110,QuickMart Wholesale,"Denver, CO",2025-06-18,In Transit
+SH908,B106,ValueGrocer Supply,"Phoenix, AZ",2025-05-06,In Transit
+SH909,B158,MetroFoods,"Atlanta, GA",2025-05-23,Delivered
+SH910,B153,FreshLine Distribution,"Denver, CO",2025-05-04,Delivered
+SH911,B169,MetroFoods,"Miami, FL",2025-03-14,Delivered
+SH912,B105,QuickMart Wholesale,"Miami, FL",2025-03-08,Delivered
+SH913,B179,QuickMart Wholesale,"Houston, TX",2025-04-09,Delivered
+SH914,B114,QuickMart Wholesale,"Denver, CO",2025-07-23,Delivered
+SH915,B147,CityMart Logistics,"Seattle, WA",2025-04-12,In Transit
+SH916,B139,CityMart Logistics,"Los Angeles, CA",2025-03-28,Delivered
+SH917,B173,ValueGrocer Supply,"Miami, FL",2025-06-05,Delivered
+SH918,B175,FreshLine Distribution,"Boston, MA",2025-05-02,Delivered
+SH919,B172,MetroFoods,"Atlanta, GA",2025-03-11,Delivered
+SH920,B108,MetroFoods,"Los Angeles, CA",2025-07-08,Delivered
+SH921,B162,ValueGrocer Supply,"Phoenix, AZ",2025-03-28,Delivered
+SH922,B119,QuickMart Wholesale,"Boston, MA",2025-06-20,Delivered
+SH923,B159,CityMart Logistics,"Boston, MA",2025-06-20,Delivered
+SH924,B131,MetroFoods,"Denver, CO",2025-03-23,In Transit
+SH925,B159,CityMart Logistics,"Atlanta, GA",2025-07-24,Delivered
+SH926,B103,MetroFoods,"Houston, TX",2025-07-05,Delivered
+SH927,B127,MetroFoods,"Phoenix, AZ",2025-05-30,Delivered
+SH928,B176,CityMart Logistics,"Los Angeles, CA",2025-05-10,In Transit
+SH929,B110,ValueGrocer Supply,"Denver, CO",2025-05-01,In Transit
+SH930,B160,ValueGrocer Supply,"Los Angeles, CA",2025-07-04,Delivered
+SH931,B137,ValueGrocer Supply,"Miami, FL",2025-04-26,Delivered
+SH932,B174,ValueGrocer Supply,"Phoenix, AZ",2025-06-03,Delivered
+SH933,B170,MetroFoods,"Denver, CO",2025-05-24,Delivered
+SH934,B139,QuickMart Wholesale,"Seattle, WA",2025-05-04,In Transit
+SH935,B140,CityMart Logistics,"Houston, TX",2025-03-31,In Transit
+SH936,B127,MetroFoods,"Boston, MA",2025-07-02,Delivered
+SH937,B124,QuickMart Wholesale,"Phoenix, AZ",2025-05-15,In Transit
+SH938,B138,CityMart Logistics,"Houston, TX",2025-03-04,Delivered
+SH939,B105,CityMart Logistics,"Boston, MA",2025-03-14,In Transit
+SH940,B162,FreshLine Distribution,"Boston, MA",2025-03-27,Delivered
+SH941,B161,MetroFoods,"Houston, TX",2025-06-21,Delivered
+SH942,B132,FreshLine Distribution,"Seattle, WA",2025-07-01,Delivered
+SH943,B162,CityMart Logistics,"Los Angeles, CA",2025-03-19,In Transit
+SH944,B119,MetroFoods,"Seattle, WA",2025-07-23,In Transit
+SH945,B115,ValueGrocer Supply,"Miami, FL",2025-07-21,Delivered
+SH946,B157,MetroFoods,"Atlanta, GA",2025-06-22,Delivered
+SH947,B172,CityMart Logistics,"Seattle, WA",2025-03-16,In Transit
+SH948,B127,FreshLine Distribution,"Houston, TX",2025-05-07,In Transit
+SH949,B122,FreshLine Distribution,"Houston, TX",2025-07-20,Delivered
+SH950,B152,CityMart Logistics,"Denver, CO",2025-06-24,Delivered
+SH951,B104,MetroFoods,"Boston, MA",2025-04-29,Delivered
+SH952,B109,MetroFoods,"Miami, FL",2025-04-29,Delivered
+SH953,B114,QuickMart Wholesale,"Houston, TX",2025-07-18,Delivered
+SH954,B118,FreshLine Distribution,"Houston, TX",2025-03-19,Delivered
+SH955,B176,MetroFoods,"Denver, CO",2025-07-24,Delivered
+SH956,B159,ValueGrocer Supply,"Boston, MA",2025-05-17,Delivered
+SH957,B156,CityMart Logistics,"Los Angeles, CA",2025-03-21,Delivered
+SH958,B141,FreshLine Distribution,"Seattle, WA",2025-05-04,In Transit
+SH959,B173,FreshLine Distribution,"Boston, MA",2025-07-29,Delivered
+SH960,B122,CityMart Logistics,"Denver, CO",2025-06-29,Delivered
+SH961,B123,ValueGrocer Supply,"Denver, CO",2025-07-28,Delivered
+SH962,B160,ValueGrocer Supply,"Phoenix, AZ",2025-05-29,Delivered
+SH963,B113,MetroFoods,"Atlanta, GA",2025-04-11,Delivered
+SH964,B136,CityMart Logistics,"Los Angeles, CA",2025-06-11,Delivered
+SH965,B111,MetroFoods,"Phoenix, AZ",2025-05-20,Delivered
+SH966,B151,FreshLine Distribution,"Denver, CO",2025-07-10,Delivered
+SH967,B106,CityMart Logistics,"Phoenix, AZ",2025-04-18,Delivered
+SH968,B156,QuickMart Wholesale,"Boston, MA",2025-03-14,In Transit
+SH969,B136,ValueGrocer Supply,"Seattle, WA",2025-06-21,Delivered
+SH970,B177,QuickMart Wholesale,"Boston, MA",2025-05-01,Delivered
+SH971,B170,FreshLine Distribution,"Miami, FL",2025-06-13,Delivered
+SH972,B159,QuickMart Wholesale,"Denver, CO",2025-03-31,Delivered
+SH973,B165,ValueGrocer Supply,"Denver, CO",2025-05-09,Delivered
+SH974,B131,CityMart Logistics,"Houston, TX",2025-06-25,Delivered
+SH975,B124,QuickMart Wholesale,"Seattle, WA",2025-07-09,Delivered
+SH976,B153,CityMart Logistics,"Boston, MA",2025-05-27,Delivered
+SH977,B136,CityMart Logistics,"Denver, CO",2025-05-16,In Transit
+SH978,B157,ValueGrocer Supply,"Phoenix, AZ",2025-07-16,Delivered
+SH979,B170,ValueGrocer Supply,"Denver, CO",2025-07-18,Delivered
+SH980,B124,CityMart Logistics,"Atlanta, GA",2025-05-01,In Transit
+SH981,B152,MetroFoods,"Denver, CO",2025-03-12,Delivered
+SH982,B149,ValueGrocer Supply,"Los Angeles, CA",2025-04-08,In Transit
+SH983,B164,MetroFoods,"Seattle, WA",2025-07-30,Delivered
+SH984,B112,ValueGrocer Supply,"Los Angeles, CA",2025-07-13,In Transit
+SH985,B152,FreshLine Distribution,"Denver, CO",2025-04-09,Delivered
+SH986,B143,FreshLine Distribution,"Phoenix, AZ",2025-06-10,Delivered
+SH987,B140,CityMart Logistics,"Los Angeles, CA",2025-07-03,Delivered
+SH988,B130,QuickMart Wholesale,"Seattle, WA",2025-05-13,Delivered
+SH989,B112,ValueGrocer Supply,"Houston, TX",2025-03-26,Delivered
+SH990,B180,ValueGrocer Supply,"Seattle, WA",2025-05-22,Delivered
+SH991,B180,ValueGrocer Supply,"Denver, CO",2025-05-31,Delivered
+SH992,B181,CityMart Logistics,"Seattle, WA",2025-06-03,Delivered
+SH993,B181,CityMart Logistics,"Miami, FL",2025-05-21,Delivered
+SH994,B182,CityMart Logistics,"Boston, MA",2025-06-03,Delivered
+SH995,B182,FreshLine Distribution,"Los Angeles, CA",2025-06-04,Delivered

@@ -1,0 +1,22 @@
+# --- Web framework ---
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+python-dotenv==1.0.1
+pydantic==2.10.4
+
+# --- RAG / LlamaIndex (modular packages) ---
+llama-index-core==0.12.10
+llama-index-llms-ollama==0.5.0
+llama-index-embeddings-huggingface==0.5.0
+llama-index-vector-stores-chroma==0.4.1
+
+# --- Vector DB + embeddings ---
+chromadb==0.6.3
+sentence-transformers==3.3.1
+
+# --- Agent framework ---
+langgraph==0.2.62
+
+# --- PDF report ---
+reportlab==4.2.5

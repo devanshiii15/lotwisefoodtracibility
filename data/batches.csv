@@ -1,0 +1,84 @@
+batch_id,lot_id,product_name,production_date,quantity_units,facility
+B100,L241,Caesar Salad Kit,2025-06-19,1264,Plant B - Denver
+B101,L210,Almond Granola,2025-05-16,4443,Plant B - Denver
+B102,L255,Caesar Salad Kit,2025-05-14,1848,Plant D - Chicago
+B103,L200,Marinara Sauce,2025-05-11,6923,Plant D - Chicago
+B104,L218,Trail Mix,2025-05-20,6484,Plant E - Portland
+B105,L242,Vanilla Yogurt,2025-06-05,2055,Plant C - Austin
+B106,L213,Salmon Ready-Meal,2025-02-15,6527,Plant E - Portland
+B107,L203,Caesar Salad Kit,2025-04-22,910,Plant E - Portland
+B108,L230,Cheese Crackers,2025-06-09,1789,Plant A - Fresno
+B109,L232,Vanilla Yogurt,2025-02-21,1061,Plant E - Portland
+B110,L204,Chocolate Bar,2025-04-02,1482,Plant E - Portland
+B111,L215,Salmon Ready-Meal,2025-06-29,825,Plant E - Portland
+B112,L205,Rice Bowl,2025-05-19,5281,Plant E - Portland
+B113,L233,Marinara Sauce,2025-04-22,2173,Plant C - Austin
+B114,L215,Chocolate Bar,2025-04-09,1572,Plant C - Austin
+B115,L229,Sandwich Bread,2025-04-22,576,Plant D - Chicago
+B116,L239,Sandwich Bread,2025-06-25,1100,Plant E - Portland
+B117,L213,Marinara Sauce,2025-06-10,1585,Plant C - Austin
+B118,L256,Grilled Chicken Wrap,2025-02-18,3527,Plant C - Austin
+B119,L210,Cheese Crackers,2025-05-24,6263,Plant C - Austin
+B120,L239,Caesar Salad Kit,2025-06-16,5971,Plant E - Portland
+B121,L219,Vanilla Yogurt,2025-02-27,2666,Plant A - Fresno
+B122,L256,Trail Mix,2025-02-28,5032,Plant B - Denver
+B123,L217,Salmon Ready-Meal,2025-04-14,2225,Plant C - Austin
+B124,L213,Marinara Sauce,2025-07-13,4640,Plant D - Chicago
+B125,L216,Sandwich Bread,2025-02-14,5696,Plant D - Chicago
+B126,L253,Caesar Salad Kit,2025-04-12,529,Plant C - Austin
+B127,L249,Rice Bowl,2025-03-06,2645,Plant B - Denver
+B128,L247,Cheese Crackers,2025-05-25,6280,Plant D - Chicago
+B129,L235,Sandwich Bread,2025-02-03,1116,Plant B - Denver
+B130,L234,Spinach Smoothie,2025-02-10,5271,Plant E - Portland
+B131,L209,Vanilla Yogurt,2025-05-22,842,Plant C - Austin
+B132,L223,Spinach Smoothie,2025-02-11,2220,Plant B - Denver
+B133,L242,Spinach Smoothie,2025-02-27,6890,Plant E - Portland
+B134,L256,Salmon Ready-Meal,2025-05-16,6639,Plant B - Denver
+B135,L259,Vanilla Yogurt,2025-04-02,7052,Plant B - Denver
+B136,L256,Caesar Salad Kit,2025-05-17,1969,Plant C - Austin
+B137,L250,Rice Bowl,2025-05-17,7578,Plant B - Denver
+B138,L217,Trail Mix,2025-03-13,1385,Plant D - Chicago
+B139,L255,Almond Granola,2025-02-10,2322,Plant B - Denver
+B140,L252,Spinach Smoothie,2025-05-29,3000,Plant B - Denver
+B141,L214,Rice Bowl,2025-02-07,2082,Plant D - Chicago
+B142,L221,Sandwich Bread,2025-04-13,6835,Plant C - Austin
+B143,L222,Cheese Crackers,2025-07-15,3774,Plant E - Portland
+B144,L221,Sandwich Bread,2025-02-08,7684,Plant C - Austin
+B145,L211,Marinara Sauce,2025-06-29,813,Plant A - Fresno
+B146,L238,Spinach Smoothie,2025-05-23,6468,Plant C - Austin
+B147,L227,Cheese Crackers,2025-07-06,1447,Plant D - Chicago
+B148,L257,Grilled Chicken Wrap,2025-06-28,2586,Plant A - Fresno
+B149,L245,Caesar Salad Kit,2025-05-23,4759,Plant E - Portland
+B150,L243,Spinach Smoothie,2025-03-23,4033,Plant A - Fresno
+B151,L242,Salmon Ready-Meal,2025-04-26,3071,Plant A - Fresno
+B152,L246,Cheese Crackers,2025-04-18,3033,Plant D - Chicago
+B153,L220,Trail Mix,2025-05-15,2922,Plant E - Portland
+B154,L208,Chocolate Bar,2025-03-22,5947,Plant D - Chicago
+B155,L243,Salmon Ready-Meal,2025-03-17,5162,Plant C - Austin
+B156,L225,Caesar Salad Kit,2025-06-21,2989,Plant C - Austin
+B157,L213,Salmon Ready-Meal,2025-05-22,5469,Plant C - Austin
+B158,L229,Almond Granola,2025-05-25,6034,Plant B - Denver
+B159,L232,Trail Mix,2025-06-02,1890,Plant A - Fresno
+B160,L218,Rice Bowl,2025-06-12,5685,Plant E - Portland
+B161,L221,Grilled Chicken Wrap,2025-02-24,6011,Plant C - Austin
+B162,L214,Vanilla Yogurt,2025-03-23,700,Plant A - Fresno
+B163,L215,Salmon Ready-Meal,2025-06-02,7461,Plant A - Fresno
+B164,L229,Rice Bowl,2025-05-18,5215,Plant B - Denver
+B165,L245,Almond Granola,2025-05-10,3773,Plant B - Denver
+B166,L209,Sandwich Bread,2025-02-02,6876,Plant D - Chicago
+B167,L214,Trail Mix,2025-03-18,4743,Plant D - Chicago
+B168,L203,Grilled Chicken Wrap,2025-06-23,7449,Plant A - Fresno
+B169,L229,Almond Granola,2025-03-07,5968,Plant E - Portland
+B170,L235,Spinach Smoothie,2025-07-03,6687,Plant D - Chicago
+B171,L239,Chocolate Bar,2025-06-10,7304,Plant E - Portland
+B172,L228,Trail Mix,2025-03-13,7557,Plant D - Chicago
+B173,L228,Grilled Chicken Wrap,2025-04-08,7380,Plant C - Austin
+B174,L249,Almond Granola,2025-06-14,5634,Plant B - Denver
+B175,L217,Sandwich Bread,2025-05-24,6345,Plant C - Austin
+B176,L215,Spinach Smoothie,2025-04-11,3119,Plant E - Portland
+B177,L205,Vanilla Yogurt,2025-03-08,2394,Plant D - Chicago
+B178,L244,Trail Mix,2025-03-12,2252,Plant A - Fresno
+B179,L226,Spinach Smoothie,2025-05-16,4945,Plant D - Chicago
+B180,L204,Caesar Salad Kit,2025-05-11,2064,Plant A - Fresno
+B181,L204,Caesar Salad Kit,2025-05-06,3086,Plant A - Fresno
+B182,L204,Caesar Salad Kit,2025-05-02,2519,Plant A - Fresno

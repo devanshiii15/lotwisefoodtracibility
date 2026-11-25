@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+backend/lotwise.db
+backend/.env
+
+# Vector store (regenerated on first run)
+chromadb/
+
+# Node / Next
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
+# Models cache
+.cache/

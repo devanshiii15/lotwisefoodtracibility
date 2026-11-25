@@ -1,0 +1,61 @@
+lot_id,supplier_id,ingredient,quantity_kg,received_date,status
+L200,S009,Cane Sugar,784,2025-06-05,Received
+L201,S006,Olive Oil,4575,2025-03-04,Received
+L202,S006,Olive Oil,3986,2025-04-08,Received
+L203,S009,Cane Sugar,4762,2025-02-26,Received
+L204,S001,Romaine Lettuce,658,2025-02-28,Received
+L205,S002,Whole Milk,2784,2025-04-13,Received
+L206,S009,Cane Sugar,742,2025-02-24,Received
+L207,S019,Almonds,2777,2025-02-24,Received
+L208,S016,Olive Oil,3441,2025-06-14,Received
+L209,S015,Strawberries,1370,2025-03-09,Received
+L210,S005,Cheddar Cheese,2220,2025-05-24,Received
+L211,S018,Chicken Breast,2352,2025-05-30,Received
+L212,S014,Cheddar Cheese,4980,2025-04-13,Received
+L213,S012,Tomatoes,1996,2025-02-05,Received
+L214,S017,Cocoa Powder,4242,2025-01-24,Received
+L215,S002,Whole Milk,1098,2025-02-09,Received
+L216,S006,Olive Oil,3658,2025-06-02,Received
+L217,S003,Strawberries,3352,2025-04-08,Received
+L218,S020,Spinach,4034,2025-05-16,Received
+L219,S009,Cane Sugar,4732,2025-01-03,Received
+L220,S004,Romaine Lettuce,4598,2025-03-10,Received
+L221,S011,Wheat Flour,1113,2025-03-17,Received
+L222,S014,Cheddar Cheese,1495,2025-04-27,Received
+L223,S001,Romaine Lettuce,2357,2025-05-09,Received
+L224,S006,Olive Oil,4358,2025-01-28,Received
+L225,S010,Cocoa Powder,4358,2025-06-05,Received
+L226,S007,Chicken Breast,1452,2025-04-06,Received
+L227,S006,Olive Oil,4618,2025-05-16,Received
+L228,S001,Romaine Lettuce,2855,2025-05-06,Received
+L229,S001,Romaine Lettuce,1116,2025-04-03,Received
+L230,S010,Cocoa Powder,2161,2025-01-15,Received
+L231,S008,Black Pepper,4847,2025-01-21,Received
+L232,S003,Strawberries,4181,2025-01-18,Received
+L233,S018,Chicken Breast,1230,2025-02-02,Received
+L234,S016,Olive Oil,4703,2025-02-12,Received
+L235,S009,Cane Sugar,4522,2025-06-05,Received
+L236,S014,Cheddar Cheese,1935,2025-05-19,Received
+L237,S007,Chicken Breast,2753,2025-04-13,Received
+L238,S012,Tomatoes,3788,2025-05-13,Received
+L239,S015,Strawberries,1191,2025-03-05,Received
+L240,S008,Black Pepper,724,2025-03-28,Received
+L241,S001,Romaine Lettuce,4737,2025-02-28,Received
+L242,S019,Almonds,2004,2025-01-02,Received
+L243,S003,Strawberries,682,2025-02-28,Received
+L244,S003,Strawberries,457,2025-03-26,Received
+L245,S003,Strawberries,4411,2025-03-02,Received
+L246,S009,Cane Sugar,4176,2025-02-24,Received
+L247,S018,Chicken Breast,1283,2025-05-27,Received
+L248,S019,Almonds,4072,2025-03-04,Received
+L249,S016,Olive Oil,3534,2025-02-18,Received
+L250,S004,Romaine Lettuce,994,2025-06-18,Received
+L251,S014,Cheddar Cheese,3102,2025-04-19,Received
+L252,S014,Cheddar Cheese,4025,2025-01-14,Received
+L253,S004,Romaine Lettuce,696,2025-04-14,Received
+L254,S011,Wheat Flour,1095,2025-03-05,Received
+L255,S007,Chicken Breast,1758,2025-05-18,Received
+L256,S015,Strawberries,1348,2025-04-19,Received
+L257,S006,Olive Oil,2481,2025-04-29,Received
+L258,S008,Black Pepper,817,2025-04-24,Received
+L259,S018,Chicken Breast,1002,2025-01-13,Received

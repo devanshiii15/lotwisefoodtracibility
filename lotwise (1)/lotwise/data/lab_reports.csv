@@ -1,0 +1,57 @@
+report_id,lot_id,test_type,test_date,result,status
+R500,L257,Listeria,2025-04-17,Negative,Clear
+R501,L201,Aflatoxin,2025-05-13,Positive,Contaminated
+R502,L202,Heavy Metals,2025-02-13,Negative,Clear
+R503,L220,Aflatoxin,2025-06-08,Negative,Clear
+R504,L250,Listeria,2025-03-31,Negative,Clear
+R505,L203,Listeria,2025-03-29,Negative,Clear
+R506,L218,Heavy Metals,2025-04-06,Negative,Clear
+R507,L222,Aflatoxin,2025-07-19,Negative,Clear
+R508,L223,E. coli,2025-07-11,Negative,Clear
+R509,L227,Aflatoxin,2025-07-16,Positive,Contaminated
+R510,L209,Pesticide Residue,2025-02-09,Positive,Contaminated
+R511,L215,Aflatoxin,2025-03-06,Negative,Clear
+R512,L233,Listeria,2025-04-25,Positive,Contaminated
+R513,L226,E. coli,2025-03-24,Negative,Clear
+R514,L236,Heavy Metals,2025-05-05,Negative,Clear
+R515,L243,Listeria,2025-03-15,Negative,Clear
+R516,L211,Pesticide Residue,2025-04-17,Negative,Clear
+R517,L210,Listeria,2025-03-02,Negative,Clear
+R518,L244,Salmonella,2025-03-09,Negative,Clear
+R519,L205,E. coli,2025-05-13,Negative,Clear
+R520,L239,Heavy Metals,2025-05-05,Negative,Clear
+R521,L224,Pesticide Residue,2025-02-04,Positive,Contaminated
+R522,L248,Salmonella,2025-05-28,Negative,Clear
+R523,L231,Aflatoxin,2025-04-09,Negative,Clear
+R524,L249,Aflatoxin,2025-05-07,Negative,Clear
+R525,L214,E. coli,2025-06-01,Positive,Contaminated
+R526,L229,Heavy Metals,2025-04-25,Positive,Contaminated
+R527,L216,E. coli,2025-07-16,Negative,Clear
+R528,L247,Pesticide Residue,2025-04-19,Positive,Contaminated
+R529,L208,Salmonella,2025-03-08,Negative,Clear
+R530,L221,Salmonella,2025-04-19,Positive,Contaminated
+R531,L200,Salmonella,2025-02-25,Negative,Clear
+R532,L225,Heavy Metals,2025-03-07,Negative,Clear
+R533,L234,Listeria,2025-06-19,Negative,Clear
+R534,L235,Aflatoxin,2025-03-12,Negative,Clear
+R535,L245,Aflatoxin,2025-02-26,Negative,Clear
+R536,L217,Heavy Metals,2025-05-16,Negative,Clear
+R537,L240,Listeria,2025-02-09,Negative,Clear
+R538,L259,E. coli,2025-05-25,Negative,Clear
+R539,L246,E. coli,2025-05-04,Negative,Clear
+R540,L241,Aflatoxin,2025-05-06,Positive,Contaminated
+R541,L253,Aflatoxin,2025-05-03,Negative,Clear
+R542,L255,Listeria,2025-03-21,Positive,Contaminated
+R543,L213,Pesticide Residue,2025-02-24,Negative,Clear
+R544,L230,Aflatoxin,2025-07-14,Negative,Clear
+R545,L207,Salmonella,2025-02-13,Negative,Clear
+R546,L232,E. coli,2025-03-05,Negative,Clear
+R547,L204,E. coli,2025-02-18,Negative,Clear
+R548,L254,Heavy Metals,2025-03-26,Negative,Clear
+R549,L206,E. coli,2025-04-26,Negative,Clear
+R550,L256,Heavy Metals,2025-02-01,Negative,Clear
+R551,L258,E. coli,2025-03-06,Negative,Clear
+R552,L219,E. coli,2025-03-01,Negative,Clear
+R553,L251,Salmonella,2025-03-06,Negative,Clear
+R554,L212,E. coli,2025-07-01,Positive,Contaminated
+R599,L204,E. coli,2025-06-01,Positive,Contaminated

@@ -1,0 +1,21 @@
+supplier_id,name,city,country,ingredient_supplied,contact_email,rating
+S001,GreenFields Farms,Rotterdam,USA,Romaine Lettuce,contact@greenfieldsfarms.com,4.5
+S002,Sunrise Organics,Denver,Canada,Whole Milk,contact@sunriseorganics.com,4.5
+S003,Blue River Dairy,Rotterdam,Brazil,Strawberries,contact@blueriverdairy.com,4.2
+S004,Golden Grain Co,Sao Paulo,Spain,Romaine Lettuce,contact@goldengrainco.com,3.3
+S005,Harvest Valley,Denver,Canada,Cheddar Cheese,contact@harvestvalley.com,4.3
+S006,Pure Leaf Produce,Pune,Canada,Olive Oil,contact@pureleafproduce.com,4.4
+S007,Nova Foods,Pune,Spain,Chicken Breast,contact@novafoods.com,4.0
+S008,Coastal Catch Ltd,Chicago,Netherlands,Black Pepper,contact@coastalcatchltd.com,3.2
+S009,Meadow Brook Farms,Austin,Brazil,Cane Sugar,contact@meadowbrookfarms.com,3.8
+S010,Alpine Naturals,Austin,Canada,Cocoa Powder,contact@alpinenaturals.com,3.8
+S011,Prairie Gold Mills,Portland,Spain,Wheat Flour,contact@prairiegoldmills.com,3.8
+S012,Fresh Roots,Toronto,India,Tomatoes,contact@freshroots.com,4.7
+S013,Silver Lake Poultry,Valencia,India,Wheat Flour,contact@silverlakepoultry.com,5.0
+S014,Orchard Hill,Guadalajara,USA,Cheddar Cheese,contact@orchardhill.com,3.7
+S015,Terra Verde,Rotterdam,India,Strawberries,contact@terraverde.com,4.8
+S016,Sunny Acres,Sao Paulo,Canada,Olive Oil,contact@sunnyacres.com,3.3
+S017,Crystal Springs,Rotterdam,Canada,Cocoa Powder,contact@crystalsprings.com,3.7
+S018,Evergreen Foods,Portland,Netherlands,Chicken Breast,contact@evergreenfoods.com,4.8
+S019,Red Barn Produce,Guadalajara,Mexico,Almonds,contact@redbarnproduce.com,4.3
+S020,Maple Ridge,Toronto,Canada,Spinach,contact@mapleridge.com,3.8
